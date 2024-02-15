@@ -1,4 +1,4 @@
-<h3 align="center">안녕하세요.<br>UI를 그리는 개발자 최기랑입니다.</h3>
+<h4 align="center">안녕하세요.<br>UI를 그리는 개발자 최기랑입니다.</h4>
 
 <br>
 
@@ -9,47 +9,49 @@
 <p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br><a href="tel:010-7255-7942">010-7255-7942</a></p>
 
 <br>
-<h3 align="center">Tool</h3>
+<h4 align="center">Tool</h4>
 <hr/>
 <div align="center">
-
-| Git | GitHub | VSCode | Figma |
-| :--: | :--: | :--: | :--: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/git/F05032" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/github/181717" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="icon" width="75" height="75" /></div> |
-
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=reactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
 
 <br>
-<h3 align="center">Frontend</h3>
+<h4 align="center">Frontend</h4>
 <hr/>
 <div align="center">
-
-| React.js | Next.js |React-Query |Recoil| Styled-Components |  Material-UI |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/reactquery" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/recoil" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/styledcomponents" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/mui" alt="icon" width="75" height="75" /></div> |
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 
 </div>
 
 <br>
-<h3 align="center">Backend</h3>
+<h4 align="center">Backend</h4>
 <hr/>
 <div align="center">
-
-| Express | MongDB | AWS-EC2 | AWS-S3 |
-| :--: | :--: | :--: | :--: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/express/000000" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/mongodb" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/amazonec2/FF9900" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/amazons3/569A31" alt="icon" width="75" height="75" /></div> |
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 
 </div>
 
 <br>
-<h3 align="center">Common</h3>
+<h4 align="center">Common</h4>
 <hr/>
 <div align="center">
-
-| HTML5 | CSS3 | JavaScript | TypeScript | JWT |
-| :--: | :--: | :--: | :--: | :--: |
-| <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" alt="icon" width="75" height="75" /></div> |
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 </div>
 
