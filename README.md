@@ -1,21 +1,15 @@
-<h3 align="center">안녕하세요.</h3>
-<h3 align="center">UI를 그리는 개발자 최기랑입니다.</h3>
+<h3 align="center">안녕하세요.<br>UI를 그리는 개발자 최기랑입니다.</h3>
 
 <br>
 
-<p align="center"><a href="http://choigirang-portfolio.site:3000/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 바로가기</a></p>
-<p align="center"><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p>
+<p align="center"><a href="http://choigirang-portfolio.site:3000/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 바로가기</a><br><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p>
 
 </br>
 
-<p align="center"><strong>📧 연락처</strong></p>
-<p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a></p>
-<p align="center"><a href="tel:010-7255-7942">010-7255-7942</a></p>
+<p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br><a href="tel:010-7255-7942">010-7255-7942</a></p>
 
 <br>
-<br>
-<br>
-<h1 align="center">Tool</h4>
+<h3 align="center">Tool</h3>
 <hr/>
 <div align="center">
 
@@ -27,9 +21,7 @@
 
 
 <br>
-<br>
-<br>
-<h1 align="center">Frontend</h4>
+<h3 align="center">Frontend</h3>
 <hr/>
 <div align="center">
 
@@ -40,9 +32,7 @@
 </div>
 
 <br>
-<br>
-<br>
-<h1 align="center">Backend</h4>
+<h3 align="center">Backend</h3>
 <hr/>
 <div align="center">
 
@@ -53,9 +43,7 @@
 </div>
 
 <br>
-<br>
-<br>
-<h1 align="center">Common</h4>
+<h3 align="center">Common</h3>
 <hr/>
 <div align="center">
 
@@ -74,8 +62,6 @@
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/passport/34E27A" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/socketdotio/010101" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/webpack/8DD6F9" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/nginx/009639" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/recoil/3578E5" alt="icon" width="75" height="75" /></div> | <div style="display: flex; align-items: flex-start;">Zustand</div> | <div style="display: flex; align-items: flex-start;"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="icon" width="75" height="75" /></div> | -->
 
-<br>
-<br>
 <br>
 
 <div align="center">
