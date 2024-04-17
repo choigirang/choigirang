@@ -2,7 +2,7 @@
 <span></span>
 
 
-<p align="center"><a href="http://choigirang-portfolio.site:3000/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 바로가기</a><br><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p>
+<p align="center"><a href="http://choigirang-portfolio.site:3000/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 v1 바로가기</a><br><p align="center"><a href="http://choigirang-portfolio.site:3000/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 v2 바로가기</a><br><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p>
 
 <span></span>
 
@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 </div>
 
 <br>
