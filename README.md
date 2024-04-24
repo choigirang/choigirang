@@ -49,10 +49,10 @@
 
 <br>
 
-<div align="center">
+<!--<div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choigirang&layout=compact&exclude_repo=choigirang.github.io&theme=monokai" />
 </div>
-<br>
+<br>-->
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=choigirang&theme=monokai&show_icons=true" />
 </div>
