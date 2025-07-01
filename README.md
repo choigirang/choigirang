@@ -7,26 +7,27 @@
 
 <span></span>
 
-<p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br><a href="tel:010-7255-7942">010-7255-7942</a></p>
-<br>
+<p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br>
+     <!--<a href="tel:010-7255-7942">010-7255-7942</a></p>-->
+<!--<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=reactQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VSCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
-
+-->
 <br>
-
+<!--
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </div>
-
+-->
 <br>
-
+<!--
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -40,13 +41,14 @@
 
 <br>
 
+<!--
 <div align="center">
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</div>
+</div> 
 
 <br>
 
