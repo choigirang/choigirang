@@ -7,7 +7,7 @@
 
 <span></span>
 
-<p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br>
+<!-- <p align="center"><a href="mailto:choigirang@kakao.com">choigirang@kakao.com</a><br> -->
      <!--<a href="tel:010-7255-7942">010-7255-7942</a></p>-->
 <!--<br>
 <div align="center">
