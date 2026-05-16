@@ -2,7 +2,7 @@
 <span></span>
 
 
-<!--<p align="center"><a href="https://v1.choigirang-portfolio.site/" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 v1 바로가기</a> -->
+<p align="center"><a href="https://frontend-choigirang.site/" alt="포트폴리오" target="_blank">포트폴리오</a>
 <!--<br><p align="center"><a href="http://choigirang-portfolio-version2.vercel.app" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 v2 바로가기</a><br><br><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p> -->
 
 <span></span>
