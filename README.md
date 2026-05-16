@@ -1,8 +1,19 @@
-<h2 align="center">안녕하세요.<br>UI를 그리는 개발자 최기랑입니다.</h2>
-<span></span>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=CHOI%20GIRANG&height=80&fontSize=40&descAlignY=75"/>
 
-<p align="center"><a href="https://frontend-choigirang.site/" alt="포트폴리오" target="_blank">포트폴리오</a>
+### 안녕하세요 👋  
+사용자 경험을 설계하고 UI를 구현하는  
+프론트엔드 개발자 **최기랑**입니다.
+
+<br/>
+
+<a href="https://frontend-choigirang.site/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Click%20Here-000000?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+</div>
 <!--<br><p align="center"><a href="http://choigirang-portfolio-version2.vercel.app" alt="포트폴리오" target="_blank">🧑🏻‍💻 포트폴리오 v2 바로가기</a><br><br><a href="https://choigirang.github.io/" alt="블로그" target="_blank">📚 블로그 바로가기</a></p> -->
 
 <span></span>
